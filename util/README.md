@@ -1,6 +1,6 @@
 ### Python2.7/3 scripts to generate a table of contents/progress in the root README.md file.
 
-===
+=============================================================================================
 
 ## Usage
  1. run `update-list.py` to generate `challenges.json` file.
