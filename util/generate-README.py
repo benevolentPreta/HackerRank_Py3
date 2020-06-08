@@ -25,13 +25,13 @@ with open(os.path.dirname(__file__) + '../challenges.json', 'r') as file_challen
       chapter['finish-count'] = 0
       chapter['count'] = 0
       for i, challenge in enumerate(chapter['challenges']):
-        path_to_challenge = 'solution/practice/%s/%s/%s' % (track['name'], chapter['name'], challenge['name'])
+        path_to_challenge = '../solution/practice/%s/%s/%s' % (track['name'], chapter['name'], challenge['name'])
         challenge['table-row'] = [str(i + 1), 
                                   '[%s](https://www.hackerrank.com/challenges/%s)' % (challenge['title'], challenge['name']),
                                   ]
         track['count'] += 1
         chapter['count'] += 1
-        if os.path.exists(os.path.dirname(__file__) + '/../' + path_to_challenge + '/solution.py'):
+        if os.path.exists(os.path.dirname(__file__) + '../' + path_to_challenge + '/solution.py'):
           track['finish-count'] += 1
           chapter['finish-count'] += 1
           challenge['table-row'].append('[Solution & Comment](%s/solution.py)' % path_to_challenge)
