@@ -34,9 +34,11 @@ with open(os.path.dirname(__file__) + '../challenges.json', 'r') as file_challen
         if os.path.exists(os.path.dirname(__file__) + path_to_challenge + '/solution.py'):
           track['finish-count'] += 1
           chapter['finish-count'] += 1
-          challenge['table-row'].append('[Solution & Comment](master/%s/solution.py)' % path_to_challenge)
+          challenge['table-row'].append('[Solution](master/%s/solution.py)' % path_to_challenge)
+        if os.path.exists(os.path.dirname(__file__) + path_to_challenge + '/working.py'):
+          challenge['table-row'].append('[Unsuccessful Attempt](master/%s/working.py)' % path_to_challenge)
         else:
-          challenge['table-row'].append('WIP')
+          challenge['table-row'].append('No Attempt')
         
   # write to README.md
   fout.write('HackerRank Solutions in Python3\n======\n\n')
