@@ -33,16 +33,16 @@ Algorithms
 ### Warmup
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](../solution/practice/algorithms/warmup/solve-me-first/solution.py)
-2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Solution & Comment](../solution/practice/algorithms/warmup/simple-array-sum/solution.py)
+1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/solve-me-first
+2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/simple-array-sum
 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | WIP
-4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Solution & Comment](../solution/practice/algorithms/warmup/a-very-big-sum/solution.py)
-5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [Solution & Comment](../solution/practice/algorithms/warmup/diagonal-difference/solution.py)
-6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution & Comment](../solution/practice/algorithms/warmup/plus-minus/solution.py)
-7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | [Solution & Comment](../solution/practice/algorithms/warmup/staircase/solution.py)
-8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution & Comment](../solution/practice/algorithms/warmup/mini-max-sum/solution.py)
-9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution & Comment](../solution/practice/algorithms/warmup/birthday-cake-candles/solution.py)
-10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Solution & Comment](../solution/practice/algorithms/warmup/time-conversion/solution.py)
+4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/a-very-big-sum
+5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/diagonal-difference
+6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/plus-minus
+7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/staircase
+8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/mini-max-sum
+9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/birthday-cake-candles
+10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/warmup/time-conversion
 
 ### Implementation
 \# | Challenge | Solution
@@ -104,7 +104,7 @@ Algorithms
 55 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | WIP
 56 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | WIP
 57 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | WIP
-58 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution & Comment](../solution/practice/algorithms/implementation/happy-ladybugs/solution.py)
+58 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | [Solution & Comment](master//solution.py)../solution/practice/algorithms/implementation/happy-ladybugs
 59 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | WIP
 60 | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area) | WIP
 61 | [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) | WIP

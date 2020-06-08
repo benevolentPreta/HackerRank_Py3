@@ -34,7 +34,7 @@ with open(os.path.dirname(__file__) + '../challenges.json', 'r') as file_challen
         if os.path.exists(os.path.dirname(__file__) + path_to_challenge + '/solution.py'):
           track['finish-count'] += 1
           chapter['finish-count'] += 1
-          challenge['table-row'].append('[Solution & Comment](%s/solution.py)' % path_to_challenge)
+          challenge['table-row'].append('[Solution & Comment](%s/solution.py)' % 'master/' + path_to_challenge)
         else:
           challenge['table-row'].append('WIP')
         
